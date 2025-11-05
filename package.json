@@ -1,0 +1,21 @@
+{
+  "name": "todo-drag-drop",
+  "version": "1.0.0",
+  "description": "A simple drag-and-drop To-Do List application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "todo",
+    "drag-and-drop",
+    "javascript",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
